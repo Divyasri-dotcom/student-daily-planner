@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "_id": "72374a51-3e08-43ee-9e34-af9263844de8",
+      "name": "Test UserPhoenix Developer",
+      "username": "testuserpasswordphoenixpassword123testuser123",
+      "password": "$2b$10$Eksw4ezbx.UtoW50yfpyVO3N6mlUbtAvxEjhCJYheHtHpqFSMVKMi",
+      "createdAt": "2026-06-26T17:42:35.521Z",
+      "updatedAt": "2026-06-26T17:42:35.521Z",
+      "id": "72374a51-3e08-43ee-9e34-af9263844de8"
+    },
+    {
+      "_id": "81b03644-3b2f-4365-b2b2-4c58f6d231d5",
+      "name": "ashein",
+      "username": "12344",
+      "password": "$2b$10$L45e4cpkw/ULFm6EQx/hvulq1qy8E3GP/ZVAT8sgC8.2QYgOadyXi",
+      "createdAt": "2026-06-26T17:48:45.315Z",
+      "updatedAt": "2026-06-26T17:48:45.315Z",
+      "id": "81b03644-3b2f-4365-b2b2-4c58f6d231d5"
+    }
+  ],
+  "posts": []
+}
